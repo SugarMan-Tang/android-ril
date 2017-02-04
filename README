@@ -1,0 +1,6 @@
+/*file name README for android4.4 ril.
+base on google public radio interface layer source code, support android 4.0/4.2/4.4 platform 
+and support L710/L810/H330 modem.
+Test on github .
+*/
+echo "hello world ,my first github.my name is SugarMan."
